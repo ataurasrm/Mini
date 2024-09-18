@@ -15,7 +15,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-MINER_PATH = ""
+MINER_PATH = "/home/user/Mini/xmrig"
 WALLET_ADDRESS = "4385pTGhmZUK5ZcAqekKXk8Z3UuSxezEUYmhA9j9Ckmy5eTFatTEFaJJnxgQCg48ef3opVwsFfhhX17FTCA2hM6UT17Rn9x"
 BOT_TOKEN = "7435606545:AAGLUaOZ0ZlEekkRgCXPCbL9chmmVUSMppM"
 MINING_POOL = "rtm.suprnova.cc:4273"
